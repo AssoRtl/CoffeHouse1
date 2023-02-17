@@ -17,7 +17,7 @@
 ![218981471-0b9d8375-1793-4446-aa4b-8b1c5fba07db](https://user-images.githubusercontent.com/106968938/219650187-45f7288e-9c93-4725-919c-065f55d26b32.png)
 
     
-    <b>Окно добавления товара БД<b/>
+  <b>Окно добавления товара БД<b/>
 ![image](https://user-images.githubusercontent.com/106968938/219660907-b653824b-f4f4-457e-9da1-690d8ff60c5b.png)
 
 
