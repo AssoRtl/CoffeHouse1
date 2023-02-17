@@ -13,7 +13,6 @@
 <b>Окно регистрации <b/>
 ![218980884-7029c156-3a4b-45fb-bee4-6750e45c0e21](https://user-images.githubusercontent.com/106968938/219649737-b2be5d5a-b318-4ec7-a7cf-a017a7669cda.png)
   
-  
-<b>Подключенная БД<b/>
+  <b>Подключенная БД<b/>
 ![218981471-0b9d8375-1793-4446-aa4b-8b1c5fba07db](https://user-images.githubusercontent.com/106968938/219650187-45f7288e-9c93-4725-919c-065f55d26b32.png)
 
